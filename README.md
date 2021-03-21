@@ -3,7 +3,8 @@
 BiliAudio is a chrome extension which helps converting the bilibili video to audio!
 
 ## Tech Stack
-1. Use [ffmpeg.wasm](https://ffmpegwasm.github.io/#installation) to convert flv to mp3, here is [demo](https://codepen.io/jeromewu/pen/NWWaMeY?editors=1010);
+1. Learn how to download the bilibili video, check [here](https://www.bilibili.com/read/cv6415114/);
+2. Use [ffmpeg.wasm](https://ffmpegwasm.github.io/#installation) to convert flv to mp3, here is [demo](https://codepen.io/jeromewu/pen/NWWaMeY?editors=1010);
 
 ## Getting Started
 
