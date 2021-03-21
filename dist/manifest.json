@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "BiliAudio",
+  "description": "BiliAudio is a chrome extension which helps transfering the bilibili video to audio!",
+  "version": "0.1.0",
+
+  "permissions": ["<all_urls>", "storage"],
+  "icons": {
+    "16": "/logo.png",
+    "32": "/logo.png",
+    "48": "/logo.png",
+    "128": "/logo.png"
+  },
+  "browser_action": {
+    "default_popup": "index.html"
+  },
+  "content_security_policy": "default-src *; style-src 'self' https://* 'unsafe-inline'; script-src 'self' https://* 'unsafe-inline' 'unsafe-eval';"
+}

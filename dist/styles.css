@@ -1,0 +1,20 @@
+.container {
+  margin: 1.5em;
+  text-align: center;
+  width: 200px;
+}
+
+#getLink {
+  margin-top: 1em;
+}
+
+#link {
+  margin-top: 1em;
+  width: 100px;
+  padding: 10px;
+  height: auto;
+}
+
+#uploader {
+  width: 180px;
+}
